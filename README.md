@@ -38,7 +38,10 @@ You are required to help the manager to predict the right group of the new custo
 ### Step 9:  Use prediction for some random inputs
 
 ## PROGRAM
-
+```
+Developed by : Bairav Skandan Loha
+roll no: 212221230010
+```
 ```python
 
 import pandas as pd
